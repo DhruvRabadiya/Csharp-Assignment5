@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assignment5", "assignment5", "{5E48A829-0D8A-1937-06E5-3CE1073FC358}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8156E181-E8AD-B2CD-D046-6EFC65F6200B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assignment5", "assignment5\src\assignment5\assignment5.csproj", "{FFBB12E8-5720-E74F-BD92-D8E724215004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFBB12E8-5720-E74F-BD92-D8E724215004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBB12E8-5720-E74F-BD92-D8E724215004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBB12E8-5720-E74F-BD92-D8E724215004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBB12E8-5720-E74F-BD92-D8E724215004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8156E181-E8AD-B2CD-D046-6EFC65F6200B} = {5E48A829-0D8A-1937-06E5-3CE1073FC358}
+		{FFBB12E8-5720-E74F-BD92-D8E724215004} = {8156E181-E8AD-B2CD-D046-6EFC65F6200B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48FEABBB-FCE8-47AA-AEAA-013E8D046C16}
+	EndGlobalSection
+EndGlobal
